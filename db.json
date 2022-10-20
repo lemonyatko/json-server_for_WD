@@ -1,0 +1,583 @@
+{
+    "dialogs": [
+        {
+            "user": {
+                "_id": "620ecf3eb955804acda1b648",
+                "fullname": "Chris Short",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Incididunt labore fugiat reprehenderit enim ea tempor ut.",
+                "isChecked": true,
+                "created_at": "Thu Jun 09 2022 19:37:39 GMT+0300 (Eastern European Summer Time)"
+            },
+            "unchecked": 0
+        },
+        {
+            "user": {
+                "_id": "620ecf3efe0601519dbce4d7",
+                "fullname": "Hillary Puckett",
+                "avatar": null,
+                "isOnline": false
+            },
+            "lastMessage": {
+                "text": "Діалог пустий",
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": null
+        },
+        {
+            "user": {
+                "_id": "620ecf3e34647d37bf91b632",
+                "fullname": "Hinton Lindsay",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Voluptate mollit consectetur veniam cillum dolor magna amet nulla exercitation aliqua mollit labore dolor.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 320
+        },
+        {
+            "user": {
+                "_id": "620ecf3ed4c660e73bc2908b",
+                "fullname": "Celeste Holden",
+                "avatar": null,
+                "isOnline": false
+            },
+            "lastMessage": {
+                "text": "Anim laborum laboris eu et est consequat dolor pariatur nostrud cupidatat non.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 4
+        },
+        {
+            "user": {
+                "_id": "620ecf3e4408efc4976e59e5",
+                "fullname": "Liza Spears",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Qui est consequat commodo aliqua commodo amet cupidatat veniam aute sint velit eu.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 0
+        },
+        {
+            "user": {
+                "_id": "620ecf3e1fdbb0cf95fde72f",
+                "fullname": "Stone Chavez",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Irure qui consequat reprehenderit cupidatat dolor aliquip deserunt ipsum amet sint laborum magna ut veniam.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 0
+        },
+        {
+            "user": {
+                "_id": "620ecf3e4b3592e1acbdc7a4",
+                "fullname": "Gibbs Douglas",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Esse reprehenderit voluptate exercitation magna veniam culpa eiusmod fugiat do eu.",
+                "isChecked": false,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 826
+        },
+        {
+            "user": {
+                "_id": "620ecf3edb121887277fc4be",
+                "fullname": "Randi Pope",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Minim eu esse cillum sit dolor amet mollit.",
+                "isChecked": false,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 117
+        },
+        {
+            "user": {
+                "_id": "620ecf3e261f9889f85c1d69",
+                "fullname": "Lorie Holder",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Commodo excepteur sunt quis in ullamco labore nisi eiusmod est dolore ea Lorem aliqua irure.",
+                "isChecked": false,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 18
+        },
+        {
+            "user": {
+                "_id": "620ecf3e20bba79cc3429c7f",
+                "fullname": "Allen Gray",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Eu veniam aute sit et ipsum cupidatat sit eiusmod do ut pariatur deserunt.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 623
+        },
+        {
+            "user": {
+                "_id": "620ecf3e939a9c8dc1e72c98",
+                "fullname": "Stacey Burt",
+                "avatar": null,
+                "isOnline": false
+            },
+            "lastMessage": {
+                "text": "Laborum qui voluptate cupidatat eu cupidatat culpa aliquip elit adipisicing.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 126
+        },
+        {
+            "user": {
+                "_id": "620ecf3e2d368cbb510693d2",
+                "fullname": "Gwendolyn Barlow",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Exercitation sit proident deserunt id irure aliqua duis exercitation ex ea Lorem laboris duis.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 605
+        },
+        {
+            "user": {
+                "_id": "620ecf3ee5ffbc0952f1ab2d",
+                "fullname": "Tina Avery",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Duis officia duis dolor labore irure deserunt proident nisi.",
+                "isChecked": false,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 335
+        },
+        {
+            "user": {
+                "_id": "620ecf3ee8c4d9f9cbb03477",
+                "fullname": "Pearlie Mcclure",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Lorem deserunt aute enim enim fugiat excepteur.",
+                "isChecked": false,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 416
+        },
+        {
+            "user": {
+                "_id": "620ecf3ef09901b0ff98cfa1",
+                "fullname": "Vanessa Hensley",
+                "avatar": null,
+                "isOnline": false
+            },
+            "lastMessage": {
+                "text": "Excepteur id ad Lorem ullamco commodo velit officia consequat cupidatat do anim deserunt dolor.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 795
+        },
+        {
+            "user": {
+                "_id": "620ecf3e1fda4c616c3c598e",
+                "fullname": "Charles Kelley",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Id do officia enim cillum esse qui quis do adipisicing tempor ipsum non fugiat.",
+                "isChecked": false,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 154
+        },
+        {
+            "user": {
+                "_id": "627e4fd3dc2b1e9c7d16aa47",
+                "fullname": "Nelda Schultz",
+                "avatar": null,
+                "isOnline": false
+            },
+            "lastMessage": {
+                "text": "Lorem aliquip labore aliquip ad mollit elit excepteur laborum et.",
+                "isChecked": false,
+                "created_at": "Fri Feb 28 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 0
+        },
+        {
+            "user": {
+                "_id": "620ecf3ea1cee0fa2c83feca",
+                "fullname": "Hammond Massey",
+                "avatar": null,
+                "isOnline": false
+            },
+            "lastMessage": {
+                "text": "Occaecat magna adipisicing veniam minim.",
+                "isChecked": true,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 874
+        },
+        {
+            "user": {
+                "_id": "620ecf3efcc2817fa20fc05b",
+                "fullname": "Atkinson Klein",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Quis proident ut est excepteur aliqua duis do.",
+                "isChecked": false,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 560
+        },
+        {
+            "user": {
+                "_id": "620ecf3e53c883bfb7032bb3",
+                "fullname": "Hobbs Huff",
+                "avatar": null,
+                "isOnline": true
+            },
+            "lastMessage": {
+                "text": "Pariatur deserunt sint nisi fugiat nulla excepteur eu proident ullamco commodo sit fugiat occaecat culpa.",
+                "isChecked": false,
+                "created_at": "Fri Feb 18 2022 00:42:06 GMT+0200 (Eastern European Standard Time)"
+            },
+            "unchecked": 654
+        }
+    ],
+    "messages": [
+        {
+            "text": "Anim reprehenderit mollit amet velit eiusmod consectetur non aute.",
+            "date": "Thu May 19 2020 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Cupidatat enim qui id reprehenderit in cillum enim aliqua do.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8f64227d809298fc79",
+                "fullname": "Raymond Strickland",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa7"
+        },
+        {
+            "text": "Eiusmod quis labore excepteur enim irure et.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8fac5e1d16f7bb2e1e",
+                "fullname": "Sutton Shepherd",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa7"
+        },
+        {
+            "text": "Consectetur excepteur anim ullamco voluptate.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8fab0c0e1f60db1f0f",
+                "fullname": "Garrison Pratt",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa7"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Mon Jun 06 2022 00:20:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Nelda Schultz",
+                "avatar": null
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "",
+            "date": "Mon Jun 06 2022 00:20:39 GMT+0300 (Eastern European Summer Time)",
+            "attachments": [
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/400",
+                    "filename": "photo"
+                }
+            ],
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Chris Short",
+                "avatar": null
+            },
+            "dialog": "620ecf3eb955804acda1b648"
+        },
+        {
+            "text": "Ipsum ex pariatur sunt eiusmod cillum occaecat. Ipsum ex pariatur sunt eiusmod cillum occaecat. Ipsum ex pariatur sunt eiusmod cillum occaecat. Ipsum ex pariatur sunt eiusmod cillum occaecat.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "attachments": [
+                {
+                    "url": "https://picsum.photos/300",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/300",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/300",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/300",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/300",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/300",
+                    "filename": "photo"
+                }
+            ],
+            "isMe": true,
+            "isChecked": true,
+            "user": {
+                "_id": "62869f8ff3c52792507f7777",
+                "fullname": "Stanislaw",
+                "avatar": "https://picsum.photos/500"
+            },
+            "dialog": "620ecf3eb955804acda1b648"
+        },
+        {
+            "date": "Thu Jun 09 2022 19:37:39 GMT+0300 (Eastern European Summer Time)",
+            "isChecked": false,
+            "audio": "https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3",
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Chris Short",
+                "avatar": null
+            },
+            "dialog": "620ecf3eb955804acda1b648"
+        },
+        {
+            "text": "Anim reprehenderit mollit amet velit eiusmod consectetur non aute.",
+            "date": "Thu May 19 2022 22:50:39 GMT+0300 (Eastern European Summer Time)",
+            "isMe": true,
+            "isChecked": false,
+            "user": {
+                "_id": "62869f8ff3c52792507fea89",
+                "fullname": "Stanislaw",
+                "avatar": "https://picsum.photos/500"
+            },
+            "dialog": "627e4fd3dc2b1e9c7d16aa47"
+        },
+        {
+            "text": "Lorem aliquip labore aliquip ad mollit elit excepteur laborum et.",
+            "date": "Mon Jun 20 2022 19:37:39 GMT+0300 (Eastern European Summer Time)",
+            "attachments": [
+                {
+                    "url": "https://picsum.photos/200"
+                }
+            ],
+            "isMe": true,
+            "isChecked": true,
+            "user": {
+                "_id": "62869f8ff3c52792507f7777",
+                "fullname": "Stanislaw",
+                "avatar": "https://picsum.photos/500"
+            },
+            "dialog": "620ecf3eb955804acda1b648"
+        },
+        {
+            "text": "ТФК ЛНТУ",
+            "date": "Mon Jun 20 2022 23:55:00 GMT+0300 (Eastern European Summer Time)",
+            "isMe": true,
+            "isChecked": false,
+            "user": {
+                "_id": "62869f8ff3c52792507f7777",
+                "fullname": "Stanislaw",
+                "avatar": "https://picsum.photos/500"
+            },
+            "dialog": "620ecf3eb955804acda1b648"
+        },
+        {
+            "text": "",
+            "date": "Tue Jun 21 2022 00:06:00 GMT+0300 (Eastern European Summer Time)",
+            "isMe": true,
+            "isChecked": false,
+            "attachments": [
+                {
+                    "url": "https://picsum.photos/200",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/200",
+                    "filename": "photo"
+                },
+                {
+                    "url": "https://picsum.photos/200",
+                    "filename": "photo"
+                }
+            ],
+            "user": {
+                "_id": "62869f8ff3c52792507f7777",
+                "fullname": "Stanislaw",
+                "avatar": "https://picsum.photos/500"
+            },
+            "dialog": "620ecf3eb955804acda1b648"
+        }
+    ]
+}
